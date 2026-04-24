@@ -10,6 +10,7 @@
 <p align="center">
   <img src="https://external-media.spacehey.net/media/sx4oMJ8NvdwbUybNSbF_DoKb0ORzoUnLVcmerbSoNZQw=/https://64.media.tumblr.com/b49218c0ddddaa16cfb9a2db1f53ef72/36bd4bbc8cd9631f-96/s100x200/b329327568af47cfe6cdf2b812bdc405fd6d6fa5.gifv" width="125"/>
   <img src="https://64.media.tumblr.com/843e08b8576ba2ed539c16dd734e918d/08af46aed2eefd7e-64/s250x400/c9d7c5cd3dc4499c7f650a74131d502b83a27299.gifv" width="125"/>
+  <img src="https://file.garden/aPcXnh6-Eg7wI_TQ/trevyan%20stamp%201.gif" width="125"/>
   <img src="https://external-media.spacehey.net/media/sNNOpdNa-v89SnXfQrN4zDulLC1y648_4YkcoDrn4voI=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ca61aea-f7b7-471c-a92c-2beda03c80e1/dgeuoqm-b42f5e02-e3d9-4111-8599-3fe1513b0224.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRjYTYxYWVhLWY3YjctNDcxYy1hOTJjLTJiZWRhMDNjODBlMVwvZGdldW9xbS1iNDJmNWUwMi1lM2Q5LTQxMTEtODU5OS0zZmUxNTEzYjAyMjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6D-3MeGW2QxJ9UAVWry_QXgPRaOzruMQceyTfq4jodw" width="125"/>
   <img src="https://adriansblinkiecollection.neocities.org/stamps/a11.png" width="125"/>
 </p>
