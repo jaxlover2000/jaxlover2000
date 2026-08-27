@@ -15,5 +15,5 @@
   <img src="https://file.garden/aPcXnh6-Eg7wI_TQ/smarty%20pants%20stamp%201.gif" width="125"/>
 </p>
 <p align="center"> <img src="https://64.media.tumblr.com/7746996e6d9fe091e792c7f57fec6f11/a092fcf30062b1d2-7e/s540x810/807f9678905b27d59ed9699d200a200a65ef5296.pnj" alt="begin" width="1000"/>
-<p align="center"> <a href="https://jaxlover2000.straw.page/" target="_blank">strawpage</a> | <a href="https://rentry.co/myfeaturepresentation" target="_blank">rentry</a>
+<p align="center"> <a href="https://jaxlover2000.straw.page/" target="_blank">strawpage</a> | <a href="https://fluffle.cc/copffee" target="_blank">fluffle</a>
 <p align="center"> <img src="https://file.garden/aPcXnh6-Eg7wI_TQ/jax%20graphic%202.png" alt="begin" width="800"/>
